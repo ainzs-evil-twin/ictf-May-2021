@@ -9,9 +9,9 @@ Some challenges for Imaginary CTF - April 2021
 
 | # | Challenge Name | Category | Difficulty |
 |:-:|:--------------:|:--------:|:----------:|
-| 1 | [neat-rsa](../main/ret2win/README.md) | Pwn | Easy |
-| 2 | [TBD](../main/TBD/README.md) | TBD | Easy |
-| 3 | [TBD](../main/TBD/README.md) | TBD | Easy |
+| 1 | [neat-rsa](../main/neat-rsa/README.md) | Crypto | Easy |
+| 2 | [TBD](../main/TBD/README.md) | Rev | Easy |
+| 3 | [TBD](../main/TBD/README.md) | Pwn | Easy |
 | 4 | [TBD](../main/TBD/README.md) | Web | Moderate |
 | 5 | [TBD](../main/TBD/README.md) | Web | Moderate |
 

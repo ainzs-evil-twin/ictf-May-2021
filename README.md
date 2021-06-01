@@ -1,11 +1,9 @@
-# ictf-Apr-2021
+# ictf-May-2021
 
-Some challenges for Imaginary CTF - April 2021
+Some challenges for Imaginary CTF - May 2021
 
 
 ## List of challenges
-
-(I'll be updating the list as I keep adding challenges)
 
 | # | Challenge Name | Category | Difficulty |
 |:-:|:--------------:|:--------:|:----------:|
